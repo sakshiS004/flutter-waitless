@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "176954378537",
+    "firebase_url": "https://waitless-26eb4-default-rtdb.firebaseio.com",
+    "project_id": "waitless-26eb4",
+    "storage_bucket": "waitless-26eb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176954378537:android:000616fc7e73bb77068f38",
+        "android_client_info": {
+          "package_name": "com.example.waitless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvP9OE7u6izEjfjdJMMKaxqxIGHCy1qQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
