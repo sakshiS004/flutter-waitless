@@ -1,7 +1,3 @@
-# waitless
-
-A new Flutter project.
-
 # WaitLess – Live Hospital Queue Tracker
 
 WaitLess is a Flutter application designed to reduce waiting time in hospitals by providing patients with real-time queue updates. The app enables patients to monitor their position in the queue while allowing hospital staff to efficiently manage appointments and patient flow.
